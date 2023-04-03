@@ -6,3 +6,5 @@ staff information, inventory, and billing.
 The system is designed to automate many of the manual processes involved in healthcare administration,
 reducing errors and streamlining operations. By maintaining a central database, the system enables healthcare providers to access accurate 
 patient information quickly, which is critical for providing high-quality care.
+
+Software: Streamlit, XAMPP MySQL

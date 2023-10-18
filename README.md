@@ -7,4 +7,4 @@ The system is designed to automate many of the manual processes involved in heal
 reducing errors and streamlining operations. By maintaining a central database, the system enables healthcare providers to access accurate 
 patient information quickly, which is critical for providing high-quality care.
 
-Software: Streamlit, XAMPP MySQL
+Software: Streamlit, XAMPP, MySQL
